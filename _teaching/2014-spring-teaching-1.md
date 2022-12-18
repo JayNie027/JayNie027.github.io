@@ -2,8 +2,8 @@
 title: "Internediate Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
-# permalink: /teaching/2014-spring-teaching-1
-# venue: "Southern Methodist University, Economics Department"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Southern Methodist University, Economics Department"
 date: 2014
 location: "City, Country"
 ---
