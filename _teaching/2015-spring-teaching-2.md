@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Intermediate Macroeconomics"
 collection: teaching
 type: "Workshop"
@@ -18,3 +18,4 @@ Heading 2
 
 Heading 3
 ======
+ -->
